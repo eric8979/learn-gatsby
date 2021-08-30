@@ -1,3 +1,5 @@
+# Learned Gatsy with "Gatsby's hello-world starter"
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
@@ -8,4 +10,4 @@
   Gatsby's hello-world starter
 </h1>
 
-Learned Gatsy with "Gatsby's hello-world starter"
+
